@@ -1,0 +1,2 @@
+Bamazon
+Stock inventory app 
